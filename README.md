@@ -1,6 +1,7 @@
 # Crop Prediction Website
 
-***Language:*** Java <br />
+***Web Development Tools:*** 
+   - HTML <br />
 ***Library:*** Java Swing, Applet <br />
 ***Database:*** Microsoft Access
 
