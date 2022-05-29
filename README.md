@@ -13,7 +13,7 @@
  Other Featuers inclue:
  - Ability to type the values **Manually**
  - Automatically connects with **Agriculture Robot** which can provide the soil quality values
- - Search crop 
+ - Able to **Search** crops 
  - FAQ for interesting facts on crops
  - About section which tells more on the use of the website
 
