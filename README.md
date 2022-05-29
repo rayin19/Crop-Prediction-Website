@@ -4,8 +4,7 @@
    - HTML
    - PHP
    - CSS
-   - JavaScript
-  <br />
+   - JavaScript <br />
 ***Library:*** Java Swing, Applet <br />
 ***Database:*** Microsoft Access
 
