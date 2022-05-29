@@ -6,8 +6,7 @@
    - CSS
    - JavaScript
  
-***Library:*** Java Swing, Applet <br />
-***Database:*** Microsoft Access
+***Database:*** MySQL <br />
 
 ***Summary:*** <br />
 A fully functional Library Management System with User Defined Passwords for Admin and Librarians. Other Features include: <br />
