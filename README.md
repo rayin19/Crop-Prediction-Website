@@ -9,12 +9,12 @@
 ***Database:*** MySQL <br />
 
 ***Summary:*** <br />
-A fully functional Library Management System with User Defined Passwords for Admin and Librarians. Other Features include: <br />
- - Admin:
-   - Add / View / Delete a Librarian
- - Librarian
-   - Add / View / Issue Books
-   - View Issued Books
-   - Return Books
- 
-A Live website in which the user can get what Crop they should grow based on the soil quality
+ A fully functional website which is used to **Predict Crops** to be grown based on the soil quality.<br />
+ Other Featuers inclue:
+ - Ability to type the values **Manually**
+ - Automatically connects with **Agriculture Robot** which can provide the soil quality values
+ - Search crop 
+ - FAQ for interesting facts on crops
+ - About section which tells more on the use of the website
+
+
