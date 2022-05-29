@@ -1,7 +1,11 @@
 # Crop Prediction Website
 
 ***Web Development Tools:*** 
-   - HTML <br />
+   - HTML
+   - PHP
+   - CSS
+   - JavaScript
+  <br />
 ***Library:*** Java Swing, Applet <br />
 ***Database:*** Microsoft Access
 
