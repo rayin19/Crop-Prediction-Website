@@ -1,0 +1,234 @@
+body{
+	margin:2%;
+	background-color: rgba(89,167,98,0.29);
+}
+h1{
+	text-align:center;
+	padding:2%;
+	color:#ffffff;
+	border:2px solid #000000 ;
+	
+	background-color:#b8b8b8;
+	background: -moz-linear-gradient(top, #666666 0%, #00b7ea 100%);
+	background: -webkit-linear-gradient(#666666 0%, #00b7ea 100%);
+	background: -o-linear-gradient(#666666 0%, #00b7ea 100%);
+	background: linear-gradient(#666666 0%, #00b7ea 100%);
+	
+	text-shadow: -1px 0px 5px #ff0000;
+	
+}
+h1{
+	background:url("../images/crop_head.jpg");
+	
+}
+nav{
+	font-variant:small-caps;
+	font-size:150%;
+	font-family:Arial,"Times New Roman",serif;
+	
+}
+
+label {
+    display: block;
+    margin-bottom: .5rem;
+    margin-left: 7em;
+}
+
+
+img{
+	border: 2px solid black;
+	margin:2%;
+}
+th,td{
+	font-variant:small-caps;
+	text-align:center;
+	font-size:2em;
+}
+td{
+	font-weight:550;
+	font-style:italic;
+}
+td div{
+	font-variant:normal;
+	font-size:0.7em;
+	font-weight:normal;
+	font-style:normal;
+}
+h2{
+	margin:2%;
+	margin-top:0;
+	color:#141280;
+}
+.redStar{
+	color:#ff0000;
+	font-weight:bolder;
+}
+form{
+	margin-left:35em;
+}
+.search_button{
+	width:20%;
+}
+.search_button button{
+	position: absolute;
+    left: 890px;
+    top: 311px;
+}
+input{
+	margin:1%;
+}
+.active{
+	background:#faebd7 !important;
+}
+.onScreen{
+	margin: 5%;
+    padding: 0.5em 3.5em;
+    height: 2em;
+	display:inline-block;
+	background: #ffffff;
+	line-height: 1em;
+    box-shadow: 0 0 8px black;
+}
+.onScreen:hover{
+	background:#000000;
+}
+.FAQ{
+	margin-left: 6em;
+}
+.dropdown-toggle{
+	margin-left:12em;
+	margin-right:5em;
+}
+.dropdown-toggle::after{
+	margin:0em;
+}
+[aria-expanded="false"]::after {
+  transform: rotate(0deg) ;
+}
+[aria-expanded="true"]::after {
+  transform: rotate(180deg) ;
+}
+.dropdown-menu{
+	padding: 2%;
+    margin: 2%;
+    width: 23em;
+    left: 17em;
+    top: 5em;
+    text-align: center;
+}
+details summary{
+	font-size: 1.2em;
+    font-weight: bold;
+	background: rgba(1,116,47,0.55);
+    color: #FFFFFF;
+	padding:1%;
+	-webkit-border-radius:25px;
+	-moz-border-radius:25px;
+	-o-border-radius:25px;
+	border-radius:25px;
+}
+details p{
+	font-size: 1.2em;
+	font-style:italic;
+	background: rgba(10,174,61,0.18);
+	font-weight: 500;
+	padding:1%;
+	-webkit-border-radius:25px;
+	-moz-border-radius:25px;
+	-o-border-radius:25px;
+	border-radius:25px;
+}
+.indexDiv{
+	display:inline-block;
+	float:left;
+	padding-left:3%;
+}
+.mySlides {display: none;}
+div img {
+	width:250px;
+	height:180px
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .2} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .2} 
+  to {opacity: 1}
+}
+
+
+@media screen and (max-width: 768px){
+	.onScreen{
+		display:block;
+	}
+	.dropdown-toggle{
+		margin-left:1em;
+		margin-right:0em;
+	}
+	.FAQ{
+		margin-left: 0em;
+	}
+	.dropdown-menu{
+		width:25em;
+		
+	}
+	form{
+		margin-left:0em;
+	}
+}
+
+footer img{
+	width:30%;
+	margin:1%;
+	border: 0px;
+	height:30%;
+}
+footer p {
+	font-size: 120%;
+}
+footer{
+	color:#ffffff;
+	margin-top:4%;
+	text-align: center;
+	clear:both;/*If this is not used then this will float as well*/
+	background-color:#00b7ea;
+}
+
+.footer-named-link {
+	color:#ffffff;
+}
+
+.github-icon{
+	width:13%;
+}
+
+
+.column {
+  float: left;
+  width: 31%;
+  margin-left:2%;
+  margin-top:1%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
