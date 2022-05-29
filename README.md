@@ -10,7 +10,7 @@
 
 ***Summary:*** <br />
  A fully functional website which is used to **Predict Crops** to be grown based on the soil quality.<br />
- Other Featuers inclue:
+ Other Features include:
  - Ability to type the values **Manually**
  - Automatically connects with **Agriculture Robot** which can provide the soil quality values
  - Able to **Search** crops 
