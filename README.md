@@ -17,4 +17,4 @@
  - FAQ for interesting facts on crops
  - About section which tells more on the use of the website
 
-
+Kindly refer to the <a href="https://github.com/rayin19/Crop-Prediction-Website/blob/main/Project%20Document.pdf">Project Document.pdf</a> for the screenshots on website functioning.
