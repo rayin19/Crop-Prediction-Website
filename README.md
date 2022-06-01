@@ -1,4 +1,4 @@
-# Crop Prediction Website
+# Crop Predictor
 
 ***Web Development Tools:*** 
    - HTML
