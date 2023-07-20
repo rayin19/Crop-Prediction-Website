@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-		<title>Agriculture Data</title>
+		<title>Harvest Horizons</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Cache-control" content="no-cache">
@@ -23,7 +23,7 @@
 </head>
 <body onload="showSlides()">
 	<header>
-		<h1> Crop Recommender</h1>
+		<h1> Harvest Horizons</h1>
 		<nav class="navbar navbar-expand-md navbar-light">
 					<button type="button" class="navbar-toggler " data-toggle="collapse" data-target="#myNavbar">
 						<span class="navbar-toggler-icon"></span>
@@ -36,7 +36,7 @@
 							<a class="dropdown-toggle onScreen " data-toggle="dropdown" href="#" aria-expanded="false">Crop Prediction</a>
 							<ul class="dropdown-menu">
 								<li><a href="manual_entry.php">Entering Values Manually</a></li>
-								<li><a href="viaBot.php">By using Agriculture Car</a></li>
+								<li><a href="viaBot.php">By using Agriculture Bot</a></li>
 							</ul>
 						</li>
 						<li><a class="onScreen FAQ" href="faq.php">FAQ</a></li>
@@ -103,7 +103,7 @@
 	<div class="container indexDiv">
 			<div class=="row">
 				<br />
-				<h3>Plant and Crop Predictor</h3>
+				<h3>Advanced Crop Predictor for Optimized Agriculture</h3>
 				<p>This website is created for telling the users what crop they can grow. The user only needs to specify some details and the
 				   website will predict what crops are the best option for the user to grow.
 				   <br/>
@@ -127,7 +127,7 @@
 			</div>
 			<div class="column"> 
 				<h3>Social Media</h3>
-				<a href="https://www.linkedin.com/in/shrey-s-b4237716a/">
+				<a href="https://www.linkedin.com/in/shrey-suri/">
 					<img src="https://uploads-ssl.webflow.com/5966ea9a9217ca534caf139f/5c8dc0002f2b676eb4ba0869_LinkedIn%20Icon.svg" alt="LinkedIn Icon" class="social-network-icons">
 				</a>
 				<a href="https://github.com/rayin19">

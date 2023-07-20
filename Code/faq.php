@@ -21,7 +21,7 @@
 </head>
 <body>
 	<header>
-		<h1>Crop Recommender</h1>
+		<h1>Harvest Horizons</h1>
 		<nav class="navbar navbar-expand-md navbar-light">
 					<button type="button" class="navbar-toggler " data-toggle="collapse" data-target="#myNavbar">
 						<span class="navbar-toggler-icon"></span>
@@ -135,7 +135,7 @@
 			</div>
 			<div class="column"> 
 				<h3>Social Media</h3>
-				<a href="https://www.linkedin.com/in/shrey-s-b4237716a/">
+				<a href="https://www.linkedin.com/in/shrey-suri/">
 					<img src="https://uploads-ssl.webflow.com/5966ea9a9217ca534caf139f/5c8dc0002f2b676eb4ba0869_LinkedIn%20Icon.svg" alt="LinkedIn Icon" class="social-network-icons">
 				</a>
 				<a href="https://github.com/rayin19">
