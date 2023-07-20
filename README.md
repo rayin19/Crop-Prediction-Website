@@ -1,5 +1,9 @@
 # Harvest Horizons
 
+Harvest Horizons is an Advanced Crop Predictor for Optimized Agriculture with the vision to help Farmers with accurate crop selection for maximum growth. The project is deployed and accessible at [Harvest Horizons](https://test2486.000webhostapp.com/).
+
+## About
+
 This project is an Advanced Crop Predictor for Optimized Agriculture developed using HTML, PHP, CSS, and JavaScript. The website allows users to predict the crops to be grown based on the soil quality. It provides features such as manual input of soil quality values, connection with an Agriculture Robot for automatic soil quality data, crop search functionality, an FAQ section for interesting facts about crops, and an about section explaining the purpose and use of the website.
 
 ## Web Development Tools
