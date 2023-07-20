@@ -1,6 +1,6 @@
-# Crop Predictor Website
+# Harvest Horizons
 
-This project is a Crop Predictor website developed using HTML, PHP, CSS, and JavaScript. The website allows users to predict the crops to be grown based on the soil quality. It provides features such as manual input of soil quality values, connection with an Agriculture Robot for automatic soil quality data, crop search functionality, an FAQ section for interesting facts about crops, and an about section explaining the purpose and use of the website.
+This project is an Advanced Crop Predictor for Optimized Agriculture developed using HTML, PHP, CSS, and JavaScript. The website allows users to predict the crops to be grown based on the soil quality. It provides features such as manual input of soil quality values, connection with an Agriculture Robot for automatic soil quality data, crop search functionality, an FAQ section for interesting facts about crops, and an about section explaining the purpose and use of the website.
 
 ## Web Development Tools
 
@@ -13,11 +13,11 @@ The Crop Predictor website is built using the following web development tools:
 
 ## Database
 
-The website utilizes PostgreSQL as the database management system for storing and retrieving data related to crops, soil quality, and other relevant information.
+Harvest Horizons utilizes PostgreSQL as the database management system for storing and retrieving data related to crops, soil quality, and other relevant information.
 
 ## Summary
 
-The Crop Predictor website offers the following features:
+The Harvest Horizons offers the following features:
 
 - **Crop Prediction**: Users can predict the suitable crops to be grown based on soil quality. They have the option to manually input soil quality values or connect with an Agriculture Robot that provides automatic soil quality data.
 
@@ -29,7 +29,7 @@ The Crop Predictor website offers the following features:
 
 ## Usage
 
-To use the Crop Predictor website, follow these steps:
+To use the Harvest Horizons, follow these steps:
 
 1. Set up a web server environment that supports PHP and PostgreSQL.
 
@@ -61,7 +61,7 @@ For screenshots and more detailed information on the website's functioning, plea
 
 ## Future Enhancements
 
-While the current version of the Crop Predictor website provides essential functionality, there are several areas that can be improved in future updates:
+While the current version of Harvest Horizons provides essential functionality, there are several areas that can be improved in future updates:
 
 - **User Registration and Login**: Implement user registration and login functionality to provide personalized experiences, user-specific crop recommendations, and the ability to save favorite crops or search history.
 
