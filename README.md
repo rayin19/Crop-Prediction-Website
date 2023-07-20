@@ -13,7 +13,7 @@ The Crop Predictor website is built using the following web development tools:
 
 ## Database
 
-Harvest Horizons utilizes PostgreSQL as the database management system for storing and retrieving data related to crops, soil quality, and other relevant information.
+Harvest Horizons utilizes MySQL as the database management system for storing and retrieving data related to crops, soil quality, and other relevant information.
 
 ## Summary
 
@@ -31,15 +31,15 @@ The Harvest Horizons offers the following features:
 
 To use the Harvest Horizons, follow these steps:
 
-1. Set up a web server environment that supports PHP and PostgreSQL.
+1. Set up a web server environment that supports PHP and MySQL.
 
-2. Create a PostgreSQL database to store the crop and soil quality data.
+2. Create a MySQL database to store the crop and soil quality data.
 
-3. Import the provided database schema and data into the PostgreSQL database.
+3. Import the provided database schema and data into the MySQL database.
 
 4. Place the HTML, PHP, CSS, and JavaScript files in the appropriate directories within your web server's document root.
 
-5. Configure the PHP database connection settings in the PHP files to connect to your PostgreSQL database.
+5. Configure the PHP database connection settings in the PHP files to connect to your MySQL database.
 
 6. Access the website through a web browser.
 
