@@ -2,7 +2,7 @@
 
 ## About
 
-Harvest Horizons is a user-friendly platform for informed crop selection, developed using HTML, PHP, CSS, and JavaScript.<br/> 
+Harvest Horizons is a user-friendly platform for informed crop selection, developed using HTML, PHP, CSS, JavaScript and MySQL.<br/> 
 It offers comprehensive soil analysis and Crop Prediction for optimized productivity and confident agricultural decisions.
 
 ## Web Development Tools
